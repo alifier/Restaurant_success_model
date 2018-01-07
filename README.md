@@ -31,4 +31,4 @@ The two datasets are then matched together with higher success rate ([file: Rest
 
 Different ML algorithms are fitted using the above features Logistic Regression and Gradient Boosting being the most successful ([file: Restaurants_yelp_ML_final.ipynb](./Restaurants_yelp_ML_final.ipynb)).
 
-For more detailed discussion about the process followed to develop this project and the obtained results, see the relevant [blog post](https://medium.com/@alifier/using-yelp-data-to-predict-restaurant-closure).
+For a more detailed discussion of the process followed to develop this model and the obtained results, see the relevant [blog post](https://medium.com/@alifier/using-yelp-data-to-predict-restaurant-closure-8aafa4f72ad6).
